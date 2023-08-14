@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #eaeaea;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+    padding-left: 3%;
+  }
+  .letra{
+    color: white;
+  }
+  nav {
+    position: static;
+    width: 100%;
+    background-color: #6500ff;
+    display: inline-block;
+    color: white;
+    font-size: large;
+    height: 15%;
+    justify-content: flex-end;
+    font-size: 2rem;
+    cursor: pointer;
+  }
+
+ 
+  .pie-pagina{
+  width: 100%;
+  background-color: #7626F2;
+  text-align: center;
+  position: absolute;
+left: 0px;
+top: 2544px;
+}
+.principal{
+  width: 100%;
+  color: #FFFFFF;
+  font-family: 'Inter';
+  font-style: normal;
+}
+.principal2{
+  color: #FFFFFF;
+  font-family: 'Alike';
+  font-style: normal;
+  text-align: center;
+}
